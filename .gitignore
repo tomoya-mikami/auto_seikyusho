@@ -1,0 +1,6 @@
+config/*
+tmp/*
+
+.DS_Store
+
+!.gitkeep
